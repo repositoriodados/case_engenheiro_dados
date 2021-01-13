@@ -30,7 +30,9 @@ Utilize a base de dados disponível neste repositório e o Apache Spark para rea
 
 
 # Notas gerais
-- Todas as operações devem ser realizadas utilizando Spark. 
- O serviço de execução fica a seu critério, podendo utilizar tanto serviços locais como serviços em cloud, desde que seja possível acessarmos para validação. 
+  - Todas as operações devem ser realizadas utilizando Spark. 
+    O serviço de execução fica a seu critério, podendo utilizar tanto serviços locais como serviços em cloud, desde que seja possível acessarmos para validação. 
  
  - Cada operação deve ser realizada no dataframe resultado.
+ 
+ - Salve o resultado de cada uma das etapas. 
